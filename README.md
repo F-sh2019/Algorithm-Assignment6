@@ -5,6 +5,8 @@ and also this repository includes all the implemented algorithms:
 
 1- Given a string S, find the longest palindromic substring in S.
 
+https://youtu.be/ukJ_fu6OQ50
+
 
 2-Given a string, recursively remove adjacent duplicate characters from string. The output string should not have any adjacent duplicates. See following examples.
 
