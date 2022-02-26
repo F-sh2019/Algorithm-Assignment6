@@ -10,9 +10,11 @@ https://youtu.be/ukJ_fu6OQ50
 
 2-Given a string, recursively remove adjacent duplicate characters from string. The output string should not have any adjacent duplicates. See following examples.
 
+https://youtu.be/lXgVNTASyYs
 
 3-Given two strings, the task is to find if a string ('a') can be obtained by rotating another string ('b') by two places.
 
+https://youtu.be/Y8HKCTvgCng
 
 4- Given an string in roman no format (s)  your task is to convert it to integer .
 
