@@ -19,15 +19,15 @@ https://youtu.be/Y8HKCTvgCng
 4- Given an string in roman no format (s)  your task is to convert it to integer .
 
 
- 
+https://youtu.be/0g2Zq7vpBg8
 
 5-Given two strings ‘X’ and ‘Y’, find the length of the longest common substring.
  
-
-
+https://youtu.be/nfQGUEixpl8
 
 6- Given a string, find length of the longest substring with all distinct characters.  For example, for input "abca", the output is 3 as "abc" is the longest substring with all distinct characters.
 
+https://youtu.be/XiuMDU5is2I
 
 7-Your task  is to implement the function atoi. The function takes a string(str) as argument and converts it to an integer and returns it.
 
