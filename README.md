@@ -33,8 +33,9 @@ https://youtu.be/XiuMDU5is2I
 
 https://youtu.be/wHAXDWKilIo
 
-8-Your task  is to implement the function strstr. The function takes two strings as arguments(s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting  the first occurrence of the string x .
+8-Your task  is to implement the function strstr. The function takes two strings as arguments(s,x) and  locates the occurrence of the string x in the string s. The function returns and integer denoting  the first occurrence of the string x.
 
+https://youtu.be/lV5azyzOWeI
 
 9-Given a array of Nstrings, find the longest common prefix among all strings present in the array.
 
