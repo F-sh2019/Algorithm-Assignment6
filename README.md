@@ -39,6 +39,7 @@ https://youtu.be/lV5azyzOWeI
 
 9-Given a array of Nstrings, find the longest common prefix among all strings present in the array.
 
+https://youtu.be/NQgCymKsnsI
 
 10-Design a URL shortner like bit.ly
  
